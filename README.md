@@ -109,3 +109,14 @@ that have already drifted apart. This one keeps them from drifting in the first 
 
 MIT. See [LICENSE](LICENSE).
 
+
+## Where this came from
+
+The failure mode this tool addresses is written up here:
+
+- [Generating your agent rules from one file does not stop them drifting](https://untactit.com/generated-rules-still-drift)
+- - [AGENTS.md was supposed to end the sprawl. I counted the files on one laptop.](https://untactit.com/agents-md-file-sprawl)
+ 
+  - Built while working on [untactit](https://untactit.com), a control plane for the skills,
+  - rules and memory AI agents run on. This tool works without it.
+  - 
